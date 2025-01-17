@@ -1,4 +1,5 @@
 #include <mutex>
+#include <vector>
 
 std::shared_ptr<char[]> resource_ptr;
 std::once_flag resource_flag;
@@ -15,6 +16,12 @@ void fun()
 }
 
 int main (int argc, char *argv[]) {
-    fun();
+    std::vector<std::thread> threads(10);
+    for (int i = 0; i < 10; ++i)
+        threads.emplace_back(fun);
+
+    for (auto& thread : threads)
+        thread.join();
+
     return 0;
 }
