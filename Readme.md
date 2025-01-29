@@ -16,7 +16,7 @@ To get started with the code examples, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/[YourUsername]/multithreading-stl-examples.git
+    git clone https://github.com/adehtiarovamc/multithreading-stl-examples.git
     cd multithreading-stl-examples
     ```
 
