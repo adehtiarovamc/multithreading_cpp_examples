@@ -6,8 +6,8 @@ This repository contains examples demonstrating the use of modern multithreading
 
 ## Contents
 
-- **Presentation**: [Presentation with summaries](https://sitrusllc.sharepoint.com/:p:/r/sites/ExternalSharing/Accounts/FinnPowerOy/FinnPowerPilotproject/Project%20Documents/Meetings/Multithreading%20in%20modern%20C++/Multithreading_in_modern_cpp.pptx?d=w1a6698dde7d14fc58eb9cb9b70d7f751&csf=1&web=1&e=YzPRg6) 
-- **Key Points Document**: [A document outlining the key points of the presentation.](https://sitrusllc.sharepoint.com/:w:/r/sites/ExternalSharing/Accounts/FinnPowerOy/FinnPowerPilotproject/Project%20Documents/Meetings/Multithreading%20in%20modern%20C++/multithreading_in_modern_cpp.docx?d=w13a09598a22c4f76acd31979e1b8b20e&csf=1&web=1&e=FgbEw1)
+- **Presentation**: [Presentation with summaries](https://primacorporate.sharepoint.com/:p:/r/sites/FI-RDCAM/Shared%20Documents/General/AMC%20Bridge%20Documentation/Multithreading_in_modern_cpp.pptx?d=wd7e162acf5af41daaa35b82de01cdf36&csf=1&web=1&e=RYUv3l) 
+- **Key Points Document**: [A document outlining the key points of the presentation.](https://primacorporate.sharepoint.com/:w:/r/sites/FI-RDCAM/Shared%20Documents/General/AMC%20Bridge%20Documentation/multithreading_in_modern_cpp.docx?d=w02f7285faf1f4405a3e0248e7d8b7661&csf=1&web=1&e=gP4vOH)
 - **Code Examples**: Small, working examples of code demonstrating the concepts discussed in the presentation.
 
 ## Getting Started
