@@ -24,7 +24,7 @@ private:
 int main (int argc, char *argv[]) {
     std::vector<std::thread> threads;
     SpinLockMutex mtx;
-    for (int i = 0; i < 10; ++i)
+    for (int i = 0; i < 100; ++i)
         threads.emplace_back([i, &mtx]() {
             std::lock_guard<SpinLockMutex> lck(mtx);
             std::cout << "Thread # " << i << '\n';
