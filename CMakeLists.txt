@@ -4,11 +4,6 @@ project(multithreading_in_moder_cpp)
 # Specify the C++ standard
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
-set(CMAKE_GENERATOR "Ninja")
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON CACHE INTERNAL "")
-set(CMAKE_C_COMPILER "clang-cl")
-set(CMAKE_CXX_COMPILER "clang-cl")
 
 add_executable(10_launching_the_thread_object, 10_launching_the_thread_object.cpp)
 add_executable(11_exception_and_join 11_exception_and_join.cpp)
