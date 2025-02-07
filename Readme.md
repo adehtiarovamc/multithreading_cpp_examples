@@ -21,7 +21,7 @@ To get started with the code examples, follow these steps:
     ```
 
 2. **Compile the examples (Using Visual C++)**:
-    Each example is provided with its own Makefile. Navigate to the example directory and run:
+    To compile all examples use CMake build system:
     ```bash
     mkdir bin
     cd .\bin\
